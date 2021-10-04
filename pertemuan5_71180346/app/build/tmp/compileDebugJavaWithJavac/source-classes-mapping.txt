@@ -1,0 +1,2 @@
+com/example/halaman_login/BuildConfig.java
+ com.example.halaman_login.BuildConfig
