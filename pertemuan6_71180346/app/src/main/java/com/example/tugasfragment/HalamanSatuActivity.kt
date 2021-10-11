@@ -10,6 +10,5 @@ class HalamanSatuActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_halaman_satu)
 
-
     }
 }

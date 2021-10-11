@@ -11,6 +11,14 @@
         android:id="@+id/FrgB"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="com.example.tugasfragment.FragmentB" />
+        android:name="com.example.tugasfragment.FragmentB"
+        android:layout_weight = "1" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/FrgC"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.example.tugasfragment.FragmentC"
+        android:layout_weight="1" />
 
 </LinearLayout>
