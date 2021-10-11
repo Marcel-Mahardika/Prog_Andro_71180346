@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\marce\\Documents\\Pemrograman_Android\\pertemuan5_71180346\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "C:\\Users\\marce\\Documents\\GitHub\\Prog_Andro_71180346\\pertemuan5_71180346\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\marce\\.gradle\\caches\\transforms-3\\1f32e1a2627ee7417c8e63fffba2f220\\transformed\\appcompat-1.3.1\\res\\values-watch-v21\\values-watch-v21.xml",

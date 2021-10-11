@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\marce\\Documents\\Pemrograman_Android\\pertemuan5_71180346\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
+            "outputFile": "C:\\Users\\marce\\Documents\\GitHub\\Prog_Andro_71180346\\pertemuan5_71180346\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\marce\\.gradle\\caches\\transforms-3\\5a3e51d9d3bf13afa5f76faada65dc67\\transformed\\material-1.4.0\\res\\values-iw\\values-iw.xml",
