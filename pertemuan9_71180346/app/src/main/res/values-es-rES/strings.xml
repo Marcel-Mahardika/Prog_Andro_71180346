@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login_Sharedpreferences</string>
+    <string name="text_translation">Hola y bienvenido a helloworld, aquí aprenderás cómo desarrollar la aplicación para Android. Gracias por ver</string>
+</resources>
