@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tugasFinal</string>
+
+    <string name="sign_in_with_google">Sign in With Google</string>
+    <string name="example">Example</string>
+    <string name="id">ID</string>
+    <string name="name">Hi</string>
+    <string name="email_address">Email address</string>
+    <string name="sign_out">Sign out</string>
+    <string name="formTitle">Form Penduduk</string>
+</resources>
